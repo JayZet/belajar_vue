@@ -1,6 +1,6 @@
 # Baca
 
-> ini hasil belajar vue saya xD, buat ToDo List 
+> ini hasil belajar vue saya xD, buat ToDo List, 
 ToDo list ini real-time apps, dengan menggunakan firebase
 
 ## Build Setup
