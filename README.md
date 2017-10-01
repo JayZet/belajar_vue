@@ -1,6 +1,6 @@
-# y
+# Baca
 
-> y
+> ini hasil belajar vue saya xD, buat ToDo List 
 
 ## Build Setup
 
